@@ -1,37 +1,50 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body,
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+  font-size: ;
+  font-family: ;
+  padding: ;
+  margin: ;
+  font-weight: ;
+  text-decoration: ;
+  color: ;
+  background-color: ;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+  font-size: ;
+  font-family: ;
+  padding: ;
+  margin: ;
+  font-weight: ;
+  color: ;
+  background-color: ;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+  font-family: ;
+  font-size: ;
+  padding: ;
+  margin: ;
+  color: ;
+  background-color: ;
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+  background-size: cover;
+  background-image: url();
+  background-color: ;
+  height: ;
+  width: ;
 }
