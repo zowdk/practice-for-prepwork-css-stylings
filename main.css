@@ -11,40 +11,51 @@ p {
   padding: 0;
 }
 
-h1 {
-  font-size: ;
-  font-family: ;
-  padding: ;
-  margin: ;
-  font-weight: ;
-  text-decoration: ;
-  color: ;
-  background-color: ;
+body {
+  line-height: 1.5;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #081c15;
+  background: linear-gradient(to top, #ee9ca7, #ffdde1);
 }
 
-h2 {
-  font-size: ;
-  font-family: ;
-  padding: ;
-  margin: ;
-  font-weight: ;
-  color: ;
-  background-color: ;
+header {
+  margin-block: 20px;
 }
 
+.page {
+  /* border: 2px solid pink; */
+  max-width: 80vw;
+  margin: 0 auto;
+  margin-bottom: 2em;
+  padding: 2em;
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #ee9ca7, #ffdde1);
+}
+.content {
+  padding: 0.5em;
+}
+.story-box {
+  /* border: 2px solid pink; */
+  padding: 1.5em;
+  background-color: #ffdde1;
+  /* opacity: 0.7; */
+  border-radius: 20px;
+}
+
+.story-title,
 p {
-  font-family: ;
-  font-size: ;
-  padding: ;
-  margin: ;
-  color: ;
-  background-color: ;
+  margin-block: 15px;
+}
+h1 {
+  letter-spacing: 1px;
 }
 
 .logo {
   background-size: cover;
-  background-image: url();
-  background-color: ;
-  height: ;
-  width: ;
+  background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+  background-color: inherit;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto;
 }
