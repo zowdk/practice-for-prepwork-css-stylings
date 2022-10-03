@@ -1,30 +1,14 @@
-# Styling Practice
+# a/A Open Projects
 
-In this practice you will be using CSS to style the HTML provided.
+[app Academy](https://www.appacademy.io/) is a San Francisco-based software engineering bootcamp that offers courses both online and on campus. This repository contains my personal solution to "Styling A Webpage with CSS" as part of [a/A Open](https://www.appacademy.io/course/app-academy-open), a version of a/A's entire online full-stack curriculum made available for free. 
 
-Your main focus is to practice using different CSS stylings to familiarize
-yourself with the vast typography, sizing, text styling and use of background
-images that CSS has to offer.
+## Styling Practice
 
-## Phase 1: CSS Styles
+The objective was to use CSS to style the provided HTML. 
 
-Once you have downloaded the starter, open the __index.html__ file in your
-browser.
+## Solution
+[Insert link to final solution] 
 
-Then navigate to the __main.css__ file and start experimenting with the
-different CSS stylings. You can change the text in multiple aspects. Start
-changing the styles and save and refresh your page to see the changes.
 
-Try styling this story as a blog entry with proper margins and gutters on the
-left and right sides of the text. Import a webfont that looks nice with the
-text and headings.
+< /  > by [@zowdk](https://twitter.com/zowdk)
 
-## Phase 2: Background Image
-
-After you have styled your text you will notice a div with the class of logo.
-In this phase insert the App Academy logo into the CSS background-image url.
-From there you can set the background color of the image and the height and
-width to your liking. Once saved you will see the App Academy logo at the bottom
-of your page.
-
-a/A logo: https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png
