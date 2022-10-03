@@ -9,6 +9,8 @@ The objective was to use CSS to style the provided HTML.
 ## Solution
 [Insert link to final solution] 
 
+![https://github.com/zowdk/practice-for-prepwork-css-stylings/blob/main/img/css-practice-thumbnail.png]
+
 
 < /  > by [@zowdk](https://twitter.com/zowdk)
 
