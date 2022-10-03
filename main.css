@@ -59,3 +59,38 @@ h1 {
   width: 60px;
   margin: 0 auto;
 }
+/* Footer */
+
+footer {
+  width: 90vw;
+  margin: 0 auto;
+  margin-block: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media (max-width: 600px) {
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
+  .sources {
+    margin-bottom: 0.25em;
+  }
+}
+.sources,
+.signature {
+  color: #4361ee;
+}
+.accent {
+  color: #081c15;
+}
+a {
+  text-decoration: none;
+  color: #f72585;
+}
+a:hover,
+a:focus {
+  color: #000;
+}
